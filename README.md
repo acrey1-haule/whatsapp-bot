@@ -1,10 +1,10 @@
 ## WhatsApp User Bot
 
-This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com/Quiec)
+This is a Userbot based on WhatsAsena written by [acrey haule](https://github.com/Quiec)
 
 ## What is WhatsAsena?
 
-**WhatsAsena,** is a WhatsApp bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp bot written by [Acrey haule](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 
@@ -113,5 +113,5 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
    
 ### Thanks To
 
-- [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
+- [acrey haule](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
 - [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
